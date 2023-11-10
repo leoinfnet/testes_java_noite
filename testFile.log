@@ -34,3 +34,15 @@
 21:45:32.527 143  [main] INFO  br.com.infnet.CalculadoraTests - Rodando antes de CADA UM
 21:45:32.527 143  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de CADA UM
 21:45:32.530 146  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de Todos
+21:49:49.207 103  [main] INFO  br.com.infnet.CalculadoraTests - ROdando antes de TODOS
+21:49:49.217 113  [main] INFO  br.com.infnet.CalculadoraTests - Rodando antes de CADA UM
+21:49:49.218 114  [main] INFO  br.com.infnet.CalculadoraTests - Iniciando test1
+21:49:49.218 114  [main] DEBUG br.com.infnet.CalculadoraTests - Valor da Soma: 4
+21:49:49.221 117  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de CADA UM
+21:49:49.227 123  [main] INFO  br.com.infnet.CalculadoraTests - Rodando antes de CADA UM
+21:49:49.227 123  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de CADA UM
+21:49:49.229 125  [main] INFO  br.com.infnet.CalculadoraTests - Rodando antes de CADA UM
+21:49:49.230 126  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de CADA UM
+21:49:49.232 128  [main] INFO  br.com.infnet.CalculadoraTests - Rodando antes de CADA UM
+21:49:49.233 129  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de CADA UM
+21:49:49.234 130  [main] INFO  br.com.infnet.CalculadoraTests - Rodando ao final de Todos
